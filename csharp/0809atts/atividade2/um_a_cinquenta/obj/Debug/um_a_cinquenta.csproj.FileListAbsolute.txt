@@ -1,0 +1,9 @@
+C:\Users\Aluno\Desktop\atividade2\um_a_cinquenta\bin\Debug\um_a_cinquenta.exe.config
+C:\Users\Aluno\Desktop\atividade2\um_a_cinquenta\bin\Debug\um_a_cinquenta.exe
+C:\Users\Aluno\Desktop\atividade2\um_a_cinquenta\bin\Debug\um_a_cinquenta.pdb
+C:\Users\Aluno\Desktop\atividade2\um_a_cinquenta\obj\Debug\um_a_cinquenta.Properties.Resources.resources
+C:\Users\Aluno\Desktop\atividade2\um_a_cinquenta\obj\Debug\um_a_cinquenta.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\atividade2\um_a_cinquenta\obj\Debug\um_a_cinquenta.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\atividade2\um_a_cinquenta\obj\Debug\um_a_cinquenta.exe
+C:\Users\Aluno\Desktop\atividade2\um_a_cinquenta\obj\Debug\um_a_cinquenta.pdb
+C:\Users\Aluno\Desktop\atividade2\um_a_cinquenta\obj\Debug\um_a_cinquenta.Form1.resources

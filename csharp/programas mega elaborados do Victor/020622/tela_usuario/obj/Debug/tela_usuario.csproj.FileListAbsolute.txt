@@ -1,0 +1,22 @@
+C:\Users\Aluno\Desktop\020622\tela_usuario\bin\Debug\tela_usuario.exe.config
+C:\Users\Aluno\Desktop\020622\tela_usuario\bin\Debug\tela_usuario.exe
+C:\Users\Aluno\Desktop\020622\tela_usuario\bin\Debug\tela_usuario.pdb
+C:\Users\Aluno\Desktop\020622\tela_usuario\obj\Debug\tela_usuario.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\020622\tela_usuario\obj\Debug\tela_usuario.Properties.Resources.resources
+C:\Users\Aluno\Desktop\020622\tela_usuario\obj\Debug\tela_usuario.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\020622\tela_usuario\obj\Debug\tela_usuario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\020622\tela_usuario\obj\Debug\tela_usuario.exe
+C:\Users\Aluno\Desktop\020622\tela_usuario\obj\Debug\tela_usuario.pdb
+C:\Users\Aluno\Desktop\020622\tela_usuario\obj\Debug\tela_usuario.Form1.resources
+C:\Users\Aluno\Desktop\020622\tela_usuario\obj\Debug\tela_usuario.tela2.resources
+F:\programas mega elaborados do Victor\020622\tela_usuario\obj\Debug\tela_usuario.csproj.AssemblyReference.cache
+F:\programas mega elaborados do Victor\020622\tela_usuario\obj\Debug\tela_usuario.Form1.resources
+F:\programas mega elaborados do Victor\020622\tela_usuario\obj\Debug\tela_usuario.Properties.Resources.resources
+F:\programas mega elaborados do Victor\020622\tela_usuario\obj\Debug\tela_usuario.tela2.resources
+F:\programas mega elaborados do Victor\020622\tela_usuario\obj\Debug\tela_usuario.csproj.GenerateResource.cache
+F:\programas mega elaborados do Victor\020622\tela_usuario\obj\Debug\tela_usuario.csproj.CoreCompileInputs.cache
+F:\programas mega elaborados do Victor\020622\tela_usuario\obj\Debug\tela_usuario.exe
+F:\programas mega elaborados do Victor\020622\tela_usuario\obj\Debug\tela_usuario.pdb
+F:\programas mega elaborados do Victor\020622\tela_usuario\bin\Debug\tela_usuario.exe.config
+F:\programas mega elaborados do Victor\020622\tela_usuario\bin\Debug\tela_usuario.exe
+F:\programas mega elaborados do Victor\020622\tela_usuario\bin\Debug\tela_usuario.pdb

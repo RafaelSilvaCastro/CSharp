@@ -1,0 +1,9 @@
+C:\Users\Aluno\Desktop\att3\tres_nomes\bin\Debug\tres_nomes.exe.config
+C:\Users\Aluno\Desktop\att3\tres_nomes\bin\Debug\tres_nomes.exe
+C:\Users\Aluno\Desktop\att3\tres_nomes\bin\Debug\tres_nomes.pdb
+C:\Users\Aluno\Desktop\att3\tres_nomes\obj\Debug\tres_nomes.Properties.Resources.resources
+C:\Users\Aluno\Desktop\att3\tres_nomes\obj\Debug\tres_nomes.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\att3\tres_nomes\obj\Debug\tres_nomes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\att3\tres_nomes\obj\Debug\tres_nomes.exe
+C:\Users\Aluno\Desktop\att3\tres_nomes\obj\Debug\tres_nomes.pdb
+C:\Users\Aluno\Desktop\att3\tres_nomes\obj\Debug\tres_nomes.Form1.resources
